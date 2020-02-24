@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/queen-attack/bin/Debug/netcoreapp2.2/Queen.deps.json
+/Users/Guest/Desktop/queen-attack/bin/Debug/netcoreapp2.2/Queen.runtimeconfig.json
+/Users/Guest/Desktop/queen-attack/bin/Debug/netcoreapp2.2/Queen.runtimeconfig.dev.json
+/Users/Guest/Desktop/queen-attack/bin/Debug/netcoreapp2.2/Queen.dll
+/Users/Guest/Desktop/queen-attack/bin/Debug/netcoreapp2.2/Queen.pdb
+/Users/Guest/Desktop/queen-attack/obj/Debug/netcoreapp2.2/Queen.csprojAssemblyReference.cache
+/Users/Guest/Desktop/queen-attack/obj/Debug/netcoreapp2.2/Queen.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/queen-attack/obj/Debug/netcoreapp2.2/Queen.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/queen-attack/obj/Debug/netcoreapp2.2/Queen.AssemblyInfo.cs
+/Users/Guest/Desktop/queen-attack/obj/Debug/netcoreapp2.2/Queen.dll
+/Users/Guest/Desktop/queen-attack/obj/Debug/netcoreapp2.2/Queen.pdb
